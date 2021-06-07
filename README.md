@@ -21,15 +21,12 @@ Password Generator Project
 
 ## ScreenShot
 
-![Image](./assets/images/Gin.png)
-
-<!-- ![Image](https://source.unsplash.com/random/100X100) -->
+![Image](./assets/images/screenshot.png)
 
 ## Link to Deployed Website
 
 https://acromarti01.github.io/password-generator-repo/
 
-<!-- Moving to the repo, fantastic work giving it a unique name, committing multiple times, and creating a README with all the requirements. I suggest displaying the screenshot instead of providing it as a link. To do so, add a "!" before the alt text and remove "Screenshot" within the parentheses. It should look like this, Screenshot. Here is a link on markdown that may help, https://medium.com/nerd-for-tech/mastering-markdown-32d4cb2c4091.  -->
 
 
 

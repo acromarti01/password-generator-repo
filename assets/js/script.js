@@ -10,7 +10,6 @@ button.addEventListener("click", function () {
     const userChoices = getUserChoices();
     const result = generatePassword(userChoices);
     textArea.placeholder = `Your Secure Password \n\n ${result}`;
-    console.log(textArea.placeholder);
 });
 function generatePassword(userChoices) {
     let result = "";
