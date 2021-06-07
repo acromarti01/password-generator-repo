@@ -21,7 +21,7 @@ Password Generator Project
 
 ## ScreenShot
 
-![Image](./assets/images/webScreenshot.png)
+![Image](./assets/images/Gin.png)
 
 <!-- ![Image](https://source.unsplash.com/random/100X100) -->
 
