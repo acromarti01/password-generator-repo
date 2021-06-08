@@ -39,7 +39,7 @@ function generatePassword(userChoices) {
         !userChoices.includeUppercaseChars &&
         !userChoices.includeNumbers &&
         !userChoices.includeSpecialChars) {
-        return "NO PASSWORD";
+        return "NO PASSWORD \n Must Enter At Least One Character Type";
     }
     // If user only chose LETTERS in the password
     else if ((userChoices.includeLowercaseChars || userChoices.includeUppercaseChars) &&
