@@ -26,7 +26,7 @@ function getUserChoices() {
     return userChoices;
 }
 function getPasswordLength() {
-    const passwordLength = prompt("Please choose length of password.\nMust be between 7 and 129 characters.\n(Example: 9)");
+    const passwordLength = prompt("Please choose length of password.\nMust be at least 8 characters and no more than 128 characters.\n(Example: 9)");
     if (arrayofLetters.includes(passwordLength.toLowerCase())) { return getPasswordLength(); }
     if (arrayOfSpecialCharacters.includes(passwordLength)) { return getPasswordLength(); }
     if (Number(passwordLength) < 8 || Number(passwordLength) > 128) { return getPasswordLength(); }
