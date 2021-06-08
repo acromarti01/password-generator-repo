@@ -5,19 +5,19 @@ Password Generator Project
 
 - What was your motivation?
 
-    My motivation for tackling the project was to learn how to refactor code and make the website more accessiable.
+    My motivation for tackling the project was to learn how to use object variables, for loops with if/else conditions, and window prompts to improve my javascript learning.
 
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 
-    I built the project to further develop my skills with code refactoring and using Github to commit changes and push content to the githup repo. 
+    I built the project to further develop my javascript skills with object variables and window methods like prompt, confirm and alert. 
 
 - What problem does it solve?
 
-    Code refactoring helps with solving conflicts users with disabilties face when looking at a website. The users could be blind or deaf and code refactoring helps overcome those problems.
+    Learning about object methods and function scope helps with tackling the problem with writing and organizing readable javascript code.
 
 - What did you learn?
 
-    I learned different ways to refactor code such as how to use semantic structure to organize my CSS selectors and provide CSS comments to increase readability.
+    I learned different types of functions and variables along with function methods to improve my javascript learning.
 
 ## ScreenShot
 
